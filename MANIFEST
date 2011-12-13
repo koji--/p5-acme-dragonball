@@ -17,6 +17,7 @@ MANIFEST			This list of files
 META.yml
 MYMETA.yml
 README
+sample/radar.pl
 t/00_compile.t
 xt/01_podspell.t
 xt/02_perlcritic.t
