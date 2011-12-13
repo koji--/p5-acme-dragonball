@@ -1,0 +1,27 @@
+This is Perl module Acme::DragonBall.
+
+INSTALLATION
+
+Acme::DragonBall installation is straightforward. If your CPAN shell is set up,
+you should just be able to do
+
+    % cpan Acme::DragonBall
+
+Download it, unpack it, then build it as per the usual:
+
+    % perl Makefile.PL
+    % make && make test
+
+Then install it:
+
+    % make install
+
+DOCUMENTATION
+
+Acme::DragonBall documentation is available as in POD. So you can do:
+
+    % perldoc Acme::DragonBall
+
+to read the documentation online with your favorite pager.
+
+Default Name
